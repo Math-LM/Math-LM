@@ -58,8 +58,20 @@ I'm open to:
 
 ## 📫 Contact
 
-* GitHub: [github.com/your-username](https://github.com/your-username)
-* LinkedIn: *(optional)*
+<p align="center">
+  <a href="https://www.linkedin.com/in/matheus-lima-ab1a54264/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+  </a>
+  <a href="https://github.com/Math-LM">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" width="40"/>
+</a>
+
+</p>
+
+---
+## GitHub Stats
+
+![Math-LM GitHub stats](https://github-readme-stats.vercel.app/api?username=Math-LM&show_icons=true&theme=radical)
 
 ---
 
@@ -106,9 +118,10 @@ I'm open to:
 
 - [X] tarefa 1
 - []  tarefa 2
+
+usar alguns emojis: https://emojipedia.org/
+
  -->
-
-
 
 
 <!--
