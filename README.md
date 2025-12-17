@@ -73,6 +73,8 @@ I'm open to:
 
 ![Math-LM GitHub stats](https://github-readme-stats.vercel.app/api?username=Math-LM&show_icons=true&theme=radical)
 
+[![Math-LM WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/Math-LM/github-readme-stats)
+
 ---
 
 > "Consistency beats motivation."
