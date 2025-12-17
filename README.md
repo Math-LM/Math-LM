@@ -73,7 +73,7 @@ I'm open to:
 
 ![Math-LM GitHub stats](https://github-readme-stats.vercel.app/api?username=Math-LM&show_icons=true&theme=radical)
 
-[![Math-LM WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/Math-LM/github-readme-stats)
+<img height="180em" src="https://camo.githubusercontent.com/d2e6f41b2997fa718cea7849df396ecc646ca50826aec2151662d283138e6b3d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d54616c657331393832266c61796f75743d636f6d70616374267468656d653d746f6b796f6e69676874" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Math-LM&amp;layout=compact&amp;theme=tokyonight" style="max-width: 100%;">
 
 ---
 
