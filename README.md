@@ -58,14 +58,14 @@ I'm open to:
 
 ## 📫 Contact
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/matheus-lima-ab1a54264/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
   </a>
+    &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Math-LM">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" width="40"/>
 </a>
-
 </p>
 
 ---
